@@ -2,3 +2,4 @@
 write something to hub
 MASTE A.
 MASTE B.
+MASTE C.
