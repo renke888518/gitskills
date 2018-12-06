@@ -1,2 +1,2 @@
-mastera
+mastera-masterb
       |--new-b-a
